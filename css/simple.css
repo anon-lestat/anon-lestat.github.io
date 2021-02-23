@@ -10,6 +10,10 @@ body {
   padding-right: 24px;
 }
 
+html {
+    font-size: calc(1em + 0.33vw);
+}
+
 .dark-mode>.dark-mode-toggle {
     color: white;
 }
