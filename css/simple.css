@@ -17,12 +17,15 @@ nav ul {
   border-radius: 10px;
   font-family: sans-serif;
   font-weight: bold;
+  padding: 16px;
 }
 nav ul li {
 }
 nav ul li: last-child {
 }
 nav ul li a {
+  text-decoration: none;
+  color:#111111;
 }
 
 html {
